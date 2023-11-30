@@ -42,6 +42,7 @@ const buttons = [
 
 export default function Home() {
   return (
+    <div className={styles.gradientBackground}>
     <div className={styles.container}>
       <div className={styles.title}>{"<Yohan Mayorga/>"}</div>
       <div className={styles.iconsBox}>
@@ -55,6 +56,7 @@ export default function Home() {
             </div>
           ))}
       </div>
+    </div>
     </div>
   );
 }

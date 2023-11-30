@@ -9,11 +9,6 @@ import { FaLinkedin } from "react-icons/fa";
 
 const buttons = [
   {
-    name: "About",
-    href: "/about",
-    icon: CgProfile,
-  },
-  {
     name: "Github",
     href: "https://github.com/yohanmayorga",
     icon: FaGithub,

@@ -34,10 +34,10 @@ const Projects = () => {
               <h3 className="text-2xl font-bold">Weather App</h3>
               <p className="bg-[#112240] text-sm md:text-base p-2 md:p-6 rounded-md">
                 Web application that allows you to check the weather in
-                different cities around the world.{" "}
+                different cities around the world.
                 <span className="text-textGreen">
                   The application uses the query to an API to obtain information
-                  in real time.{" "}
+                  in real time.
                 </span>
                 It contains information about the current state of the weather
                 you select, and the forecast for the next seven days.

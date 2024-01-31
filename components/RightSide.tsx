@@ -14,7 +14,7 @@ const RightSide = () => {
       <span
         className="w-[2px] h-32
   bg-textDark inline-flex"
-      ></span>{" "}
+      ></span>
     </div>
   );
 };

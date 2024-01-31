@@ -19,7 +19,7 @@ const About = () => {
             ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
             aliquip ex ea commodo consequat. Duis aute irure dolor in
             reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat{" "}
+            pariatur. Excepteur sint occaecat
             <span className="text-textGreen">cupidatat non proident,</span> sunt
             in culpa qui officia deserunt mollit anim id est laborum.
           </p>
